@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+body {
+    background-color: hsl(212, 45%, 89%);
+    margin-top: 10em;
+}
+.card {
+    margin: 0 auto;
+    max-width: 260px;
+    text-align: center;
+    background-color: white;
+    padding: 16px;
+    border-radius: 20px;
+    
+}
+.qrCode {
+    display: flex;
+    height: 260px;
+    width: auto;
+    border-radius: 10px;
+}
+p {
+    color: gray;
+    font-size: 15;
+    font-family: 'Outfit', sans-serif;
+}
+h3 {
+    font-family: 'Outfit', sans-serif;
+}
